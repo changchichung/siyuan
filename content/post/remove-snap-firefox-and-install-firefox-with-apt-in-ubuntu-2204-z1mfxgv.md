@@ -4,8 +4,9 @@ slug: remove-snap-firefox-and-install-firefox-with-apt-in-ubuntu-2204-z1mfxgv
 url: >-
   /post/remove-snap-firefox-and-install-firefox-with-apt-in-ubuntu-2204-z1mfxgv.html
 tags: []
-categories: []
-lastmod: '2023-04-11 14:07:34'
+categories:
+  - post
+lastmod: '2023-04-11 14:14:57'
 toc: true
 keywords: ''
 description: >-
@@ -49,4 +50,4 @@ echo 'Unattended-Upgrade::Allowed-Origins:: "LP-PPA-mozillateam:${distro_codenam
 sudo apt install firefox
 ```
 
-‍
+​![BNrDmEQ](https://raw.githubusercontent.com/changchichung/imagebed/master/202304111414291.png)​
