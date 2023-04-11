@@ -3,10 +3,11 @@ title: remove snap firefox , and install firefox with apt in ubuntu 22.04
 slug: remove-snap-firefox-and-install-firefox-with-apt-in-ubuntu-2204-z1mfxgv
 url: >-
   /post/remove-snap-firefox-and-install-firefox-with-apt-in-ubuntu-2204-z1mfxgv.html
+date: '2023-04-11 14:06:47'
 tags: []
 categories:
   - post
-lastmod: '2023-04-11 14:14:57'
+lastmod: '2023-04-11 14:18:02'
 toc: true
 keywords: ''
 description: >-
